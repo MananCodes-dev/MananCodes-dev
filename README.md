@@ -18,7 +18,7 @@ Currently on a **4-year journey** to master **AI/ML** and **Game Development** â
 
 ## ðŸ“Š GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MananCodes-dev&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MananCodes-dev&theme=tokyonight)
+
 
 ---
 
