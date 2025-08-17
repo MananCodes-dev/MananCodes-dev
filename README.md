@@ -226,4 +226,4 @@ def current_focus():
 
 ---
 
-<sub>Last updated: January 2025 | Built with ❤️ and lots of ☕</sub>
+<sub>Last updated: August 2025 | Built with ❤️ and lots of ☕</sub>
