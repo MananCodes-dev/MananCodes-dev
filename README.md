@@ -1,229 +1,193 @@
-# 👋 Hi, I'm Manan Kumar
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Python+Developer+%7C+AI%2FML+Enthusiast;Building+100%2B+CLI+Tools;Creating+My+Own+Programming+Language;Future+Game+Developer)](https://git.io/typing-svg)
+# 👋 Hey there, I'm Manan Sadana!
+
+### 💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Open Source Contributor
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://manancodes.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MananCodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manansadana/)
 
 </div>
 
-🚀 **Python Developer** passionate about **AI/ML** and **Game Development**  
-🎯 Currently on a **4-year journey** to master cutting-edge technologies  
-⚡ Building **100+ Python CLI tools** in public while documenting my learning journey  
-🧮 Creator of **MiniCalcLang** - my own interpreted programming language
+---
+
+## 🚀 About Me
+
+```typescript
+const manan = {
+    location: "India 🇮🇳",
+    timezone: "UTC +05:30",
+    currentFocus: ["Full-Stack Development", "Mobile Apps", "Open Source"],
+    learning: ["TypeScript", "React Native", "Cloud Architecture"],
+    communities: ["Open Source", "Tech Twitter", "Developer Communities"],
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
+
+I'm a passionate developer who loves building **beautiful, functional, and user-centric** applications. Whether it's crafting pixel-perfect UIs or architecting robust backends, I enjoy every aspect of the development process.
 
 ---
 
-## 🎯 Current Mission
+## 🛠️ Tech Stack
 
-> **100 Python CLI Tools Challenge** 🏆  
-> Daily coding streak: **19+ days** and counting!  
-> 
-> From simple calculators to complex interpreters, I'm building one CLI tool every day, sharing my code, and documenting lessons learned along the way.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Languages & Technologies**
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Core Expertise**
-- **🔧 CLI Application Development** - Building user-friendly command-line tools
-- **📁 File Processing & Data Handling** - CSV manipulation, JSON parsing, file operations
-- **🔤 Text Processing** - Regex patterns, string manipulation, tokenization
-- **🧠 Language Design** - Lexical analysis, parsing, interpreter implementation
-- **⚡ Automation & Scripting** - Task automation, workflow optimization
-
-### **Learning Focus Areas**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🎮 **Game Development with Python**
-- 🔧 **Advanced Python Patterns & Architecture**
-- 🌐 **Web Scraping & API Integration**
-
-### **Tools & Environment**
-- **IDE**: VS Code with Python extensions
-- **Version Control**: Git & GitHub
-- **Organization**: Notion for project planning
-- **Package Management**: pip, virtual environments
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MananCodes-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MananCodes-dev&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MananCodes-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧮 **MiniCalcLang** - *My Programming Language*
-> A custom interpreted calculator language with lexical analysis, parsing, and evaluation
-- **Features**: Mathematical expressions, variables, custom syntax
-- **Tech**: Python, Tokenization, Recursive parsing
-- **Status**: Actively expanding with functions and control structures
-- [**View Source →**](https://github.com/MananCodes-dev/python-cli-apps/tree/main/language)
+<table>
+<tr>
+<td width="50%">
 
-### 🎥 **YouTube CLI Downloader**
-> Fast, efficient YouTube video downloader with quality selection
-- **Features**: Multiple formats, quality options, playlist support
-- **Tech**: Python, yt-dlp, argparse
-- [**View Source →**](https://github.com/MananCodes-dev/python-cli-apps/blob/main/utilities/youtube_downloader.py)
+### 🎨 Portfolio
+**Personal portfolio website showcasing my work and skills**
+- Built with TypeScript & modern web technologies
+- Fully responsive and animated
+- [View Project →](https://github.com/manancodes/Portfolio)
 
-### 🔐 **Advanced Password Generator**
-> Cryptographically secure password generator with customization
-- **Features**: Length control, character sets, entropy calculation
-- **Tech**: Python, secrets module, regex validation
-- [**View Source →**](https://github.com/MananCodes-dev/python-cli-apps/blob/main/utilities/password_generator.py)
+</td>
+<td width="50%">
 
-### 💰 **Smart Expense Tracker**
-> Personal finance tracker with CSV export and analytics
-- **Features**: Category tracking, monthly reports, data visualization
-- **Tech**: Python, CSV handling, data analysis
-- [**View Source →**](https://github.com/MananCodes-dev/python-cli-apps/blob/main/trackers/expense_tracker.py)
+### 🌈 Screenbows
+**Magical colours for your screen**
+- Beautiful color palettes for developers
+- Interactive color picker
+- [View Project →](https://github.com/manancodes/Screenbows)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🗂️ Project Categories
+### 📱 Wellpaper
+**Wallpaper App - Awesome outfits for your phone**
+- React Native mobile application
+- Curated wallpaper collection
+- [View Project →](https://github.com/manancodes/Wellpaper)
 
-<details>
-<summary><strong>🔧 Utilities & Tools</strong></summary>
+</td>
+<td width="50%">
 
-- Password Generator & Validator
-- File Organizer & Batch Renamer
-- YouTube Video Downloader
-- System Information Dashboard
-- Log File Analyzer
+### 🎬 PixelCast
+**TypeScript-powered video streaming platform**
+- Modern streaming solution
+- Built with cutting-edge tech
+- [View Project →](https://github.com/manancodes/PixelCast)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<details>
-<summary><strong>📊 Data & Analytics</strong></summary>
+### 🔧 Userminator
+**User management solution**
+- Efficient user handling system
+- Scalable architecture
+- [View Project →](https://github.com/manancodes/userminator)
 
-- Expense Tracker with Reporting
-- CSV Data Processor
-- JSON Schema Validator
-- Web Scraping Tools
-- API Data Fetchers
+</td>
+<td width="50%">
 
-</details>
+### 📚 LMS
+**Learning Management System**
+- Educational platform built with JavaScript
+- Feature-rich and user-friendly
+- [View Project →](https://github.com/manancodes/LMS)
 
-<details>
-<summary><strong>🎮 Games & Interactive</strong></summary>
-
-- Number Guessing Games
-- Quiz Applications
-- Text-based Adventures
-- Puzzle Solvers
-- Interactive Calculators
-
-</details>
-
-<details>
-<summary><strong>🧮 Language Development</strong></summary>
-
-- MiniCalcLang Interpreter
-- Tokenizer & Lexer
-- Expression Parser
-- Math Engine
-- Future: Control Structures
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 2024-2028 Roadmap
-
-### **Phase 1: Foundation** *(Current)*
-- [x] Master Python CLI development
-- [x] Build 20+ diverse CLI tools
-- [x] Create custom programming language
-- [ ] Reach 30 CLI projects (v1.0 milestone)
-- [ ] Implement advanced MiniCalcLang features
-
-### **Phase 2: AI Integration** *(Next 6 months)*
-- [ ] Build AI-powered CLI applications
-- [ ] Text summarizer with NLP
-- [ ] Sentiment analysis tool
-- [ ] Machine learning model trainer
-- [ ] Computer vision projects
-
-### **Phase 3: Game Development** *(Year 2)*
-- [ ] Python game development with Pygame
-- [ ] 2D game engines and frameworks
-- [ ] Game scripting and automation
-- [ ] Interactive storytelling tools
-
-### **Phase 4: Advanced Projects** *(Years 3-4)*
-- [ ] Full-stack web applications
-- [ ] Mobile app development
-- [ ] Distributed systems
-- [ ] Open source contributions
-
----
-
-## 📈 Learning Philosophy
-
-> **"Code. Learn. Share. Repeat."**
-
-I believe in:
-- 🔄 **Continuous Learning** - Dedicating time daily to new concepts
-- 🌍 **Learning in Public** - Sharing progress, failures, and victories
-- 🤝 **Community Engagement** - Contributing to discussions and helping others
-- 🎯 **Project-Based Learning** - Building real tools that solve actual problems
-
----
-
-## 🌐 Let's Connect!
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/UnfilteredManan)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MananCodes-dev)
+![MananCodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manancodes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-**Discord**: `manan_codes`  
-**X (Twitter)**: [@UnfilteredManan](https://x.com/UnfilteredManan)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manancodes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manancodes&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
 ---
 
-## 💡 Recent Activity
+## 🎯 What I'm Up To
 
-```python
-def current_focus():
-    return {
-        "daily_coding": "CLI tools development",
-        "learning": ["AI/ML fundamentals", "Advanced Python"],
-        "building": "MiniCalcLang interpreter",
-        "planning": "AI-powered applications",
-        "streak": "19+ days strong! 🔥"
-    }
-```
+- 🔭 Currently working on **innovative web and mobile applications**
+- 🌱 Learning **advanced TypeScript patterns and cloud architecture**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React, TypeScript, Node.js, or UI/UX design**
+- ⚡ Fun fact: **I believe good code is like a good joke - it needs no explanation!**
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manancodes&custom_title=MananCodes's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true)
+
+---
+
+## 💡 Random Dev Quote
+
 <div align="center">
 
-### 🔥 Streak Status: **20+ Days of Consistent Coding**
-
-*Every day brings new learning opportunities and project milestones.*
-
-**⭐ Star this repo if you find my projects interesting!**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-<sub>Last updated: August 2025 | Built with ❤️ and lots of ☕</sub>
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, collaborate on projects, or just chat about tech! Feel free to reach out:
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://manancodes.vercel.app/)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge)](https://twitter.com/MananCodes)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://www.linkedin.com/in/manansadana/)
+[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-D14836?style=for-the-badge)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some of the repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=manancodes&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Thanks for visiting my profile! Have a great day! 😊**
+
+</div>
