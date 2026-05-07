@@ -16,7 +16,7 @@
 
 ```typescript
 const developer = {
-    name: "Manan Sadana",
+    name: "Manan Kumar",
     role: "Full-Stack Developer",
     location: "India 🇮🇳",
     currentProjects: ["SkillGrid", "Web Applications", "Mobile Apps"],
